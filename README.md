@@ -1,8 +1,6 @@
 
   # Product Launch Landing Page
 
-  This is a code bundle for Product Launch Landing Page. The original project is available at https://www.figma.com/design/QHW1QgzC9ozNy2HTeWqQaE/Product-Launch-Landing-Page.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
